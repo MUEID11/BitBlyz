@@ -10,7 +10,7 @@ const Content = () => {
       <div
         rel="noopener noreferrer"
         href="#"
-        className="mx-auto max-w-full overflow-hidden transition border-2  border-gray-400  border-opacity-30 group hover:no-underline focus:no-underline dark:bg-gray-50 hidden sm:block"
+        className="mx-auto max-w-full overflow-hidden transition border-2  border-gray-400  border-opacity-30 group hover:no-underline focus:no-underline dark:bg-gray-50 sm:block"
       >
         <img
           role="presentation"
